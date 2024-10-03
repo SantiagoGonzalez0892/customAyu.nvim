@@ -1,1 +1,1 @@
-lua require('customTheme').setup()
+lua require('customAyu').setup()
