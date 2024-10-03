@@ -51,3 +51,14 @@ CustomAyu provides theme support for other plugins in the Neovim ecosystem.
 - [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+
+
+# Languages
+- html
+- css
+- JavaScript
+- TypeScript
+- jsx
+- tsx
+- md
+- json
